@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Andrew Fwamba
-- 👀 I’m interested in mobile design and development, web development, REST APIs, and API integrations, node express, react native, react js, php-laravel
-- 🌱 I’m currently learning online banking integrations.
-- 💞️ I’m looking to collaborate on easing the way of life through technology am also improving my skills and learning new technologies.
+- 👀 I’m interested in mobile Mobile and Fullstack Development 
+- 🌱 I’m currently learning API Integrations 
+- 💞️ I’m looking to collaborate on startup projects
 - 📫 You can reach me through my email andrewfwamba1@gmail.com, andrewecorrex03@gmail.com or through my mobile 0743047823
 
 <!---

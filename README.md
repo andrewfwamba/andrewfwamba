@@ -2,7 +2,7 @@
 - 👀 I’m interested in Mobile and Fullstack Development 
 - 🌱 I’m currently learning API Integrations 
 - 💞️ I’m looking to collaborate on startup projects
-- 📫 You can reach me through my email andrewfwamba1@gmail.com, andrewecorrex03@gmail.com or through my mobile 0743047823
+- 📫 You can reach me through my email andrewfwamba1@gmail.com or through my mobile 0743047823
 
 <!---
 andrewfwamba/andrewfwamba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

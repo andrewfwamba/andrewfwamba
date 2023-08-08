@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Andrew Fwamba
-- 👀 I’m interested in Mobile and Fullstack Development 
+- 👀 I’m a Fullstack Software engineer 
 - 🌱 I’m currently learning API Integrations 
 - 💞️ I’m looking to collaborate on startup projects
 - 📫 You can reach me through my email andrewfwamba1@gmail.com or through my mobile 0743047823

@@ -22,7 +22,7 @@
 
 ### 📫 Get in Touch
 - **Email:** [andrewfwamba1@gmail.com](mailto:andrewfwamba1@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/andrewfwamba](https://linkedin.com/in/andrewfwamba)  
+- **LinkedIn:** [linkedin.com/in/andrewfwamba](https://linkedin.com/in/andrew-fwamba1)  
 - **Phone:** +254 743 047 823  
 
 ---

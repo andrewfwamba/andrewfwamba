@@ -15,7 +15,7 @@
 
 ### 🚀 Tech Stack
 **Backend:** Laravel | Node.js | Express | Prisma | PostgreSQL | MySQL  
-**Frontend:** React | TypeScript | Ant Design | TailwindCSS | Tanstack Query 
+**Frontend:** React | TypeScript | Ant Design | TailwindCSS | Tanstack Query  
 **DevOps / Tools:** Docker | Nginx | DigitalOcean | AWS | Stripe | Git | REST & GraphQL APIs  
 
 ---

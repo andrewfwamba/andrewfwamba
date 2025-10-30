@@ -1,10 +1,31 @@
-- 👋 Hi, I’m Andrew Fwamba
-- 👀 I’m a Fullstack Software engineer 
-- 🌱 I’m currently developing APIs
-- 💞️ I’m looking to collaborate on startup projects
-- 📫 You can reach me through my email andrewfwamba1@gmail.com or through my mobile 0743047823
+# 👋 Hey there, I’m Andrew Fwamba
 
-<!---
-andrewfwamba/andrewfwamba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 **Fullstack Software Engineer** passionate about building scalable APIs, modern web applications, and clean developer experiences.  
+
+---
+
+### 🧠 About Me
+- 🔭 Currently developing RESTful and GraphQL APIs using **Laravel** and **Node.js (TypeScript + Prisma)**  
+- ⚙️ Experienced with **React**, **Ant Design**,**MUI**, **MongoDB**, **MySQL**, **TailwindCSS**, and **PostgreSQL**  
+- 🌱 Continuously learning about system design, cloud infrastructure, and API optimization  
+- 💡 Love working on **startup ideas**, **SaaS products**, and **developer tools**  
+- 🤝 Open to collaborations on impactful projects or open-source contributions  
+
+---
+
+### 🚀 Tech Stack
+**Backend:** Laravel | Node.js | Express | Prisma | PostgreSQL | MySQL  
+**Frontend:** React | TypeScript | Ant Design | TailwindCSS | Tanstack Query 
+**DevOps / Tools:** Docker | Nginx | DigitalOcean | AWS | Stripe | Git | REST & GraphQL APIs  
+
+---
+
+### 📫 Get in Touch
+- **Email:** [andrewfwamba1@gmail.com](mailto:andrewfwamba1@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/andrewfwamba](https://linkedin.com/in/andrewfwamba)  
+- **Phone:** +254 743 047 823  
+
+---
+
+> “Code should solve problems elegantly — not just work.”  
+> — *Andrew Fwamba*
